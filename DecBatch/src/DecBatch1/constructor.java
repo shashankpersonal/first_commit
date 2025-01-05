@@ -6,6 +6,7 @@ public class constructor {
 	{
 		this(1,2,3);
 		System.out.println("default constructor");
+		System.out.println("hey men whats up");
 	}
 	public constructor(int a)
 	{
